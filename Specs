@@ -1,0 +1,9 @@
+Today in Austin
+
+Overview: Use Twitter, Instagram, and Google Maps API to pull geo-tagged photos and info and display in a super-ultra-modern-awesome way.
+
+Instagram: use media_search() to find geotagged instagrams, and maybe sort them by likes and comments. To do later: Find a way to enter an Austin Zip Code and narrow geo-coordinates based on that.
+
+Twitter: Pull geo-tagged tweets from austin, with precedence given to tweets tagged with certain things.
+
+Google Maps API: Pull locations from each tweet and pic and put them on a map.
